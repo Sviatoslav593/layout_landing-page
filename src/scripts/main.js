@@ -1,5 +1,3 @@
-'use strict';
-
 const body = document.querySelector('.page__body');
 const menuOpen = document.querySelector('.icon--menu');
 const menuClose = document.querySelector('.icon--close');
