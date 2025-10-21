@@ -19,7 +19,7 @@ Figma: https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node
 
 Вимоги: Node v18+, npm/yarn
 Кроки:
-git clone https://github.com/Sviatoslav593/repo.git
+git clone https://github.com/Sviatoslav593/layout_landing-page.git
 cd repo
 npm i
 npm run dev (або npm start)
